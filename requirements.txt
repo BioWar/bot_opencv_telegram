@@ -4,7 +4,7 @@ cffi==1.12.1
 cryptography==2.5
 future==0.17.1
 numpy==1.16.1
-opencv-contrib-python-headless==4.0.0.21
+opencv-contrib-python-headless==4.1.1.26
 Pillow==6.2.0
 pycparser==2.19
 PyPDF2==1.26.0
